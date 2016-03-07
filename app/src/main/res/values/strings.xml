@@ -1,0 +1,18 @@
+
+<resources>
+    <string name="app_name">ProblemSet4</string>
+    <string name="add">ADD</string>
+    <string name="deleteQuestion">"Are you sure you want to delete "</string>
+    <string name="questionmark">\?</string>
+    <string name="errorMessage">An error occurred. Cannot write to file toDoApp.data.</string>
+    <string name="sure">Are you sure you want to delete the item \'</string>
+    <string name="sureList">Are you sure you want to delete the list \'</string>
+    <string name="fromToDo">\' from your TO DO list?</string>
+    <string name="fromList">\'?</string>
+    <string name="yesSure">Yes, I\'m sure</string>
+    <string name="noNotSure">No, wait!</string>
+    <string name="mainMenuHeader">My TO DO Lists</string>
+    <string name="TEST">WOOW</string>
+    <string name="explanationRemoveList">Long-press a list to remove it</string>
+    <string name="openError">An error occured</string>
+</resources>
